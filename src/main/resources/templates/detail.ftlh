@@ -13,7 +13,6 @@
 </head>
 <body>
 <div class="detail">
-    <div class="detail">
         <div class="vizitka">
             <div class="jmeno">${vizitka.jmeno}</div>
             <div class="firma">${vizitka.firma}</div>
@@ -47,6 +46,5 @@
             [/#if]
         </div>
     </div>
-</div>
 </body>
 </html>
